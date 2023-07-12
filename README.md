@@ -1,1 +1,1 @@
-# myipfspic
+# Just for IPFS Profile
